@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.exe
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.deps.json
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\bin\Debug\netcoreapp3.1\Uprajnenie.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Uprajnenie\Uprajnenie\obj\Debug\netcoreapp3.1\Uprajnenie.genruntimeconfig.cache

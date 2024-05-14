@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.exe
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.deps.json
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\bin\Debug\netcoreapp3.1\While loop - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Цикли с условие - Упражнение\While loop - Упражнение\While loop - Упражнение\obj\Debug\netcoreapp3.1\While loop - Упражнение.genruntimeconfig.cache

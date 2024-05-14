@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.exe
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.deps.json
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\bin\Debug\netcoreapp3.1\Проверки - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Проверки - Лаб\Проверки - Лаб\Проверки - Лаб\obj\Debug\netcoreapp3.1\Проверки - Лаб.genruntimeconfig.cache

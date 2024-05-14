@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.exe
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.deps.json
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\bin\Debug\netcoreapp3.1\Повторения с цикли – Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Повторения с цикли – Лаб\Повторения с цикли – Лаб\Повторения с цикли – Лаб\obj\Debug\netcoreapp3.1\Повторения с цикли – Лаб.genruntimeconfig.cache

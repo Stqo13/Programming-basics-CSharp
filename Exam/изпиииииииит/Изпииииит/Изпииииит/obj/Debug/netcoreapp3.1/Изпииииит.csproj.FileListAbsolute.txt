@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.exe
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.deps.json
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.dll
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\bin\Debug\netcoreapp3.1\Изпииииит.pdb
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.dll
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.pdb
+C:\Users\Dell\Documents\SoftUni\Изпит\изпиииииииит\Изпииииит\Изпииииит\obj\Debug\netcoreapp3.1\Изпииииит.genruntimeconfig.cache

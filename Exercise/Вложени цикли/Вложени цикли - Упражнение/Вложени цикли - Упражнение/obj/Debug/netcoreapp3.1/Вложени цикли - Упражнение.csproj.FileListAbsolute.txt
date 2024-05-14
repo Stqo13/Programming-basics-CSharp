@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.exe
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.deps.json
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\bin\Debug\netcoreapp3.1\Вложени цикли - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Вложени цикли - Упражнение\Вложени цикли - Упражнение\Вложени цикли - Упражнение\obj\Debug\netcoreapp3.1\Вложени цикли - Упражнение.genruntimeconfig.cache

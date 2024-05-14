@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.exe
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.deps.json
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\bin\Debug\netcoreapp3.1\По - сложни проверки - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\По - сложни проверки - Лаб\По - сложни проверки - Лаб\По - сложни проверки - Лаб\obj\Debug\netcoreapp3.1\По - сложни проверки - Лаб.genruntimeconfig.cache

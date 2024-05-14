@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.exe
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.deps.json
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\bin\Debug\netcoreapp3.1\While цикъл - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.dll
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.pdb
+C:\Users\Dell\Documents\SoftUni\Lab\Цикли с условие - Лаб\While цикъл - Лаб\While цикъл - Лаб\obj\Debug\netcoreapp3.1\While цикъл - Лаб.genruntimeconfig.cache

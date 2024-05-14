@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.exe
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.deps.json
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\bin\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Упражнение - Първи стъпки в програмирането\Упражнение - Първи стъпки в програмирането\obj\Debug\netcoreapp3.1\Упражнение - Първи стъпки в програмирането.genruntimeconfig.cache

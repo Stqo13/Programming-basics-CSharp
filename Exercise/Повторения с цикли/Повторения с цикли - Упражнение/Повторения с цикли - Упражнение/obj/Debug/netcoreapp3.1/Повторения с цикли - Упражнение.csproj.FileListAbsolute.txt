@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.exe
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.deps.json
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\bin\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.dll
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.pdb
+C:\Users\Dell\Documents\SoftUni\Upr\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\Повторения с цикли - Упражнение\obj\Debug\netcoreapp3.1\Повторения с цикли - Упражнение.genruntimeconfig.cache
